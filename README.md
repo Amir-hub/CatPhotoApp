@@ -1,2 +1,3 @@
 # CatPhotoApp
-By FreeCodeCamp help, I am going to learn coding.
+
+This is my first Html code and FreeCodeCamp helps me how to code.
